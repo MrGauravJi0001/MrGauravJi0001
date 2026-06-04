@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **gaurav79pri@gmail.com** For Collaboration/Project or Anyt
 
 - 🔭 **I’m currently working on:** My Website
 - 🌱 **I’m currently learning:** Python Libraries 
-- 👯 **I’m looking to collaborate on:** Currently Not
-- 🤔 **I’m looking for help with:** Currently Not
+- 👯 **I’m looking to collaborate on:** NA
+- 🤔 **I’m looking for help with:** NA
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gaurav79pri@gmail.com
 - 😄 **Pronouns:** He/His
